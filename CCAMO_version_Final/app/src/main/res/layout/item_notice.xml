@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/border_layout"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/noticeText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:drawableStart="@drawable/notice"
+        android:drawableLeft="@drawable/notice"
+        android:padding="10dp"
+        android:textColor="#FFFF"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/nameText"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginLeft="8dp"
+            android:textStyle="bold"
+            android:padding="3dp"
+            android:text="작성자"
+            android:textColor="#FFFF"
+            android:textColorHint="#FFFF" />
+
+        <TextView
+            android:id="@+id/dateText"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:layout_marginLeft="8dp"
+            android:padding="3dp"
+            android:text="2020-01-13"
+            android:textColor="#FFFF"
+            android:textColorHint="#FFFF" />
+    </LinearLayout>
+
+</LinearLayout>

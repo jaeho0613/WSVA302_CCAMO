@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419633996942",
+    "project_id": "ccamo-f7ff9",
+    "storage_bucket": "ccamo-f7ff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419633996942:android:ad79f81327b7c679ab55df",
+        "android_client_info": {
+          "package_name": "team.wsva302.ccamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419633996942-fq64u561bsgjd74aden2vhi16ha26mlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team.wsva302.ccamo",
+            "certificate_hash": "06901d6287ea14b13c9bda82fe817beb9414b1af"
+          }
+        },
+        {
+          "client_id": "419633996942-tmd3enb8fa2harooh5q4v3uefi7ag79n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX22ydgbW1opvba8FdX5Lxc8VcGwuZ0ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419633996942-tmd3enb8fa2harooh5q4v3uefi7ag79n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

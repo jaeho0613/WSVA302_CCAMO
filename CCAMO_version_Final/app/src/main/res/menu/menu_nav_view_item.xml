@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_notice"
+            android:title="공지사항" />
+
+        <item
+            android:id="@+id/menu_findCafe"
+            android:title="매장찾기" />
+
+        <item
+            android:id="@+id/menu_sendMessage"
+            android:title="메일 보내기" />
+
+    </group>
+
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item android:title="이벤트" />
+
+        <item android:title="전자영수증" />
+    </group>
+
+    <group
+        android:id="@+id/group3"
+        android:checkableBehavior="single">
+
+
+        <item android:title="이용안내" />
+
+        <item android:title="자주하는질문" />
+    </group>
+
+    <group
+        android:id="@+id/group4"
+        android:checkableBehavior="single">
+        <item android:title="설정" />
+
+        <item
+            android:id="@+id/menu_logOut"
+            android:title="로그아웃" />
+
+    </group>
+
+</menu>
