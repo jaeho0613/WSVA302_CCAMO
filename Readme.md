@@ -1,7 +1,3 @@
-## 🔗 프로젝트 공유
-
-[https://drive.google.com/drive/folders/1gukaBEWJ2ciY1er4B7QsyTTdBnOdpJR9?usp=sharing](https://drive.google.com/drive/folders/1gukaBEWJ2ciY1er4B7QsyTTdBnOdpJR9?usp=sharing)
-
 ## 🈺 주요 기능
 
 ### 카카오톡 API
