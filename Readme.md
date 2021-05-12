@@ -1,3 +1,7 @@
+# CCAMO - Cafe App
+[![cover](./img/main.png)](https://www.youtube.com/watch?v=m6jenZCzqEY)
+**(사진 클릭 시 유튜브 영상)**
+
 ## 🈺 주요 기능
 
 ### 카카오톡 API

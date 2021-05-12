@@ -39,7 +39,7 @@
                 <!-- 카카오 API 키 -->
                 <data
                     android:host="oauth"
-                    android:scheme="kakao321e3fec64fe5ba97624aaf18060f3d9" />
+                    android:scheme="kakao9b14532b461e5b55ed4db2f3f8f15f3a" />
             </intent-filter>
         </activity> <!-- 구글 API 키 -->
         <meta-data
